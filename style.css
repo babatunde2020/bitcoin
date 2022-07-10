@@ -9,6 +9,7 @@
     color: white;
     border: 0;
     font-weight: 700;
+    font-size: small;
 }
 .btn-aptb{
     padding: 8px;
@@ -17,6 +18,7 @@
     color: white;
     border: 0;
     font-weight: 700;
+    font-size: small;
    
 }
 .btn-aptc{
@@ -26,6 +28,7 @@
     color: white;
     border: 0;
     font-weight: 700;
+    font-size: small;
     display: flex;
     justify-content: center;
     margin: 0;
@@ -37,13 +40,14 @@
 }
 .bnt2{
     color: #273140;
-    font-weight: 600;
+    font-weight: 800;
     border: none;
     border-radius: 25px;
     margin-right: 10px;
+    font-size: smaller;
 }
 .img1{
-    margin-left: 100px;
+    float: right;
 }
 .h1a{
     color: #fb0;
@@ -52,31 +56,34 @@
 .pa{
     font-weight: 500;
     color: white;
+    font-size: small;
 }
 .con2{
     text-align: center;
     border-radius: 20px;
     padding: 5px;
-    margin-top: -50px;
+    margin-top: -80px;
 }
 .h3a{
     color: #273140;
-    font-weight: 600;
+    font-weight: 700;
     text-align: center;
     font-size: large;
 }
 .awesome1{
     background-color:#fb0;
-    padding: 15px;
+    padding: 5px;
     border-radius: 50px;
     border-spacing: 5px;
     border-color: #273140;
     border-width: 5px;
+    font-size: x-large;
     
 }
 .steps{
     color: #273140;
-    font-weight: 600;
+    font-weight: 700;
+    font-size: small;
 }
 .stepsno{
     color: white;
@@ -87,7 +94,7 @@
 .line1{
     background: linear-gradient(#cc7a00, #fb0);
     height: 2px;
-    width:100px;
+    width:70px;
     margin-left: 45%;
     border-radius: 25px;
 
@@ -96,7 +103,7 @@
     background: linear-gradient(#cc7a00, #fb0);
 
     height:2px;
-    width: 100px;
+    width: 70px;
     margin-left: 43%;
 }
 .amount{
@@ -117,20 +124,21 @@
     height: 150px;
 }
 .pamt{
-    font-weight: 600;
+    font-weight: 700;
+    font-size: small;
 }
 .pamtb{
     color: white;
     font-weight: 700;
     text-align: center;
+    font-size: large;
 }
 .btn-apt2{
-    justify-content: center;
-    position: absolute;
-    align-items: center;
     background-color: #273140;
     border-radius: 25px;
     color: white;
+    font-size: small;
+   
 }
 
 .coroimg1{
@@ -164,12 +172,14 @@
     font-weight: 600;
     font-family:'Times New Roman', Times, serif;
     margin-left: 30px;
+    font-size: small;
 }
 .p2{
     font-weight: 500;
     font-family: Arial, Helvetica, sans-serif;
     top: 2;
     margin-left: 30px;
+    font-size: smaller;
 }
 .percent{
     color: #cc7a00;
@@ -183,7 +193,7 @@
 
 .bimg{
     background:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('img/istockphoto-818871806-612x612.jpg');
-    height: 100vh;
+    height: 95vh;
     background-size: cover;
     background-repeat: no-repeat;
     border-radius: 5px;
@@ -198,15 +208,15 @@
 }
 .h3c{
     font-weight: 600;
-    font-family:cursive
+    font-size: small;
 }
 .p3{
     font-weight: 500;
-    font-family: cursive;
+    font-size: smaller;
 }
 .ref1{
     color: aqua;
-    font-family: cursive;
+    font-size: small;
 }
 .bimg1{
     float: right;
@@ -227,7 +237,8 @@
 
     
 .con5{
-    margin-top: 100px;
+    position: relative;
+    top: 1;
     margin-bottom: -100px;
 
 
@@ -251,17 +262,19 @@
     color: white;
     margin-top: 100px;
     font-weight: 600;
+    font-size: small;
 }
 .lis{
     color: white;
+    
 }
 .logo2{
-    background-image: url('img/download\ \(1\).jfif');
-    background-size: 50px;
-    background-position: center;
+    text-align: center;
     height: 20vh;
-    background-repeat: no-repeat;
-
+    border-radius: 25px;
+    position: relative;
+    justify-content: center;
+    display: block;
 }
 .form1{
     border-radius: 5px;
@@ -271,4 +284,20 @@
     font-weight: 600;
     padding: 5px;
     border-radius: 5px;
+}
+.btc{
+    float: right;
+    border-radius: 25px;
+}
+.pd{
+    font-size:x-small;
+    font-weight: 600;
+}
+.lp{
+    font-size:x-small;
+    text-align: center;
+}
+.alertbox{
+    background-color: white;
+    color: black;
 }
