@@ -1,0 +1,274 @@
+.con1{
+    color:#273140;
+    font-weight: 600;
+}
+.btn-apta{
+    padding: 8px;
+    border-radius: 25px;
+    background-color:  #fb0;;
+    color: white;
+    border: 0;
+    font-weight: 700;
+}
+.btn-aptb{
+    padding: 8px;
+    border-radius: 25px;
+    background-color:  #fb0;;
+    color: white;
+    border: 0;
+    font-weight: 700;
+   
+}
+.btn-aptc{
+    padding: 8px;
+    border-radius: 25px;
+    background-color:  #fb0;;
+    color: white;
+    border: 0;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    position: absolute;
+    top: 108%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+.bnt2{
+    color: #273140;
+    font-weight: 600;
+    border: none;
+    border-radius: 25px;
+    margin-right: 10px;
+}
+.img1{
+    margin-left: 100px;
+}
+.h1a{
+    color: #fb0;
+    font-weight: 500;
+}
+.pa{
+    font-weight: 500;
+    color: white;
+}
+.con2{
+    text-align: center;
+    border-radius: 20px;
+    padding: 5px;
+    margin-top: -50px;
+}
+.h3a{
+    color: #273140;
+    font-weight: 600;
+    text-align: center;
+    font-size: large;
+}
+.awesome1{
+    background-color:#fb0;
+    padding: 15px;
+    border-radius: 50px;
+    border-spacing: 5px;
+    border-color: #273140;
+    border-width: 5px;
+    
+}
+.steps{
+    color: #273140;
+    font-weight: 600;
+}
+.stepsno{
+    color: white;
+    font-weight: 700;
+    background: linear-gradient(#cc7a00, #fb0);
+    border-radius: 50px;
+}
+.line1{
+    background: linear-gradient(#cc7a00, #fb0);
+    height: 2px;
+    width:100px;
+    margin-left: 45%;
+    border-radius: 25px;
+
+}
+.line2{
+    background: linear-gradient(#cc7a00, #fb0);
+
+    height:2px;
+    width: 100px;
+    margin-left: 43%;
+}
+.amount{
+    float: right;
+}
+.card1{
+    background: linear-gradient(#cc7a00, #fb0);
+    padding: 15px;
+    border-radius: 20px;
+    color: white;
+    height: 250px;
+}
+.bg1{
+    background-image: url('img/purple.png');
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: 200px;
+    height: 150px;
+}
+.pamt{
+    font-weight: 600;
+}
+.pamtb{
+    color: white;
+    font-weight: 700;
+    text-align: center;
+}
+.btn-apt2{
+    justify-content: center;
+    position: absolute;
+    align-items: center;
+    background-color: #273140;
+    border-radius: 25px;
+    color: white;
+}
+
+.coroimg1{
+    background:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('img/images.jfif');
+    height: 60vh;
+    background-repeat: no-repeat;
+    color: white;
+    border-radius: 40px;
+    background-size: cover;
+}
+.coroimg2{
+    background:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('img/meet-the-team\ \(1\).png');
+    height: 60vh;
+    background-repeat: no-repeat;
+    color: white;
+    border-radius: 40px;
+    background-size: cover;
+}.coroimg3{
+    background:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('img/bimg3.png');
+    height: 60vh;
+    background-repeat: no-repeat;
+    color: white;
+    border-radius: 40px;
+    background-size:cover;
+}
+
+.con4{
+    margin-bottom: -100px;
+}
+.h3b{
+    font-weight: 600;
+    font-family:'Times New Roman', Times, serif;
+    margin-left: 30px;
+}
+.p2{
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+    top: 2;
+    margin-left: 30px;
+}
+.percent{
+    color: #cc7a00;
+    font-size: x-large;
+    font-weight: 600;
+}
+.jfif{
+    border-radius: 10px;
+    float: right;
+}
+
+.bimg{
+    background:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('img/istockphoto-818871806-612x612.jpg');
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 5px;
+    background-attachment: fixed;
+}
+.info1{
+    background-color: #273140;
+    color: white;
+    border-radius: 20px;
+    padding: 20px;
+    height: 250px;
+}
+.h3c{
+    font-weight: 600;
+    font-family:cursive
+}
+.p3{
+    font-weight: 500;
+    font-family: cursive;
+}
+.ref1{
+    color: aqua;
+    font-family: cursive;
+}
+.bimg1{
+    float: right;
+}
+.curve{
+    background-color: white;
+    font-weight: 800;
+    color: black;
+    border-radius: 100%;
+}
+.connect{
+    background-image: url('img/phone3D-orange.png');
+    background-repeat: no-repeat;
+    height: 85vh;
+    background-position: center;
+    background-size: 400px;
+}
+
+    
+.con5{
+    margin-top: 100px;
+    margin-bottom: -100px;
+
+
+}
+.h3d{
+    color: #273140;
+    margin-top: -100px;
+    font-weight: 600;
+    text-align: center;
+    font-size: large;
+}
+
+.con6{
+    padding: 10px;
+    position: relative;
+    margin-bottom: 100px;
+}
+
+.con7{
+    background-color: #273140;
+    color: white;
+    margin-top: 100px;
+    font-weight: 600;
+}
+.lis{
+    color: white;
+}
+.logo2{
+    background-image: url('img/download\ \(1\).jfif');
+    background-size: 50px;
+    background-position: center;
+    height: 20vh;
+    background-repeat: no-repeat;
+
+}
+.form1{
+    border-radius: 5px;
+}
+.btn-apt4{
+    background-color:#fb0;
+    font-weight: 600;
+    padding: 5px;
+    border-radius: 5px;
+}
