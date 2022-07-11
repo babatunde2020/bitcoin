@@ -1,1 +1,1 @@
-alert('Welcome to Coinflip.')
+alert('Welcome to Coinflip.').style.color = "blue";
